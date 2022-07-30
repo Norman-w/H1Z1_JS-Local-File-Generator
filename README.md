@@ -34,6 +34,15 @@
 运行[H1Z1_JS语言文件生成器.exe]程序。
 
 
+### **替换语言包后不显示**
+随便找一个支持中文(或者目标语言)的ttf字体(可以由ttc强制修改后缀),更名为Robot-Bold.ttf
+
+然后将次字体覆盖到
+
+####  游戏目录下\UI\Resources\Fonts中,替换已有文件.也可以使用同目录下的simhei.ttf改名的方式来实现中文支持
 
 
 			This tool is made by [Norman]
+
+
+
